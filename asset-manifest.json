@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickWrite-React-App/static/css/main.94770708.css",
+    "main.js": "/QuickWrite-React-App/static/js/main.bde2d6ac.js",
+    "index.html": "/QuickWrite-React-App/index.html",
+    "main.94770708.css.map": "/QuickWrite-React-App/static/css/main.94770708.css.map",
+    "main.bde2d6ac.js.map": "/QuickWrite-React-App/static/js/main.bde2d6ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94770708.css",
+    "static/js/main.bde2d6ac.js"
+  ]
+}
